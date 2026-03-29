@@ -70,3 +70,13 @@ GUI 框架：Tkinter + TkinterDnD2 (实现跨平台拖拽)。
 费用提示：翻译过程会消耗相应模型的 Token，建议先用小规模数据测试 Prompt 效果。
 
 格式限制：目前版本仅支持 .xlsx 和 .xls 格式。
+
+======================================
+
+下载与运行：
+
+请前往 Releases 页面。
+
+下载 UniversalLanguageTool_v1.0.0.zip。
+
+解压后运行 .exe 文件即可开始翻译。

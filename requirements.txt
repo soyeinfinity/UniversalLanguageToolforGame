@@ -1,0 +1,4 @@
+pandas
+openai
+tkinterdnd2
+openpyxl
